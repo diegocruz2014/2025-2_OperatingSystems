@@ -1,0 +1,3 @@
+D:/Fullstack/2025-2/2025-2_OperatingSystems/05_SincronizacionConSemaforizacion/cmake-build-debug/CMakeFiles/06_SincronizacionConSemaforizacion.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/05_SincronizacionConSemaforizacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/05_SincronizacionConSemaforizacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

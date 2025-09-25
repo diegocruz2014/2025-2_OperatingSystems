@@ -1,0 +1,3 @@
+D:/Fullstack/2025-1/2025-1_OperatingSystems/01_MainframeProccessesSimulator/cmake-build-debug/CMakeFiles/MainframeProccessesSimulator.dir
+D:/Fullstack/2025-1/2025-1_OperatingSystems/01_MainframeProccessesSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/2025-1/2025-1_OperatingSystems/01_MainframeProccessesSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

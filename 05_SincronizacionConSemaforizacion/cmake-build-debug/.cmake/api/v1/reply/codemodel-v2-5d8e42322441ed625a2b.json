@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "06_SincronizacionConSemaforizacion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "06_SincronizacionConSemaforizacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_SincronizacionConSemaforizacion-Debug-6b4079ffaa846bdb6492.json",
+					"name" : "06_SincronizacionConSemaforizacion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Fullstack/2025-2/2025-2_OperatingSystems/05_SincronizacionConSemaforizacion/cmake-build-debug",
+		"source" : "D:/Fullstack/2025-2/2025-2_OperatingSystems/05_SincronizacionConSemaforizacion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

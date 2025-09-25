@@ -1,0 +1,3 @@
+D:/Fullstack/2025-1/2025-1_OperatingSystems/04_PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/04_PageReplacementAlgorithms.dir
+D:/Fullstack/2025-1/2025-1_OperatingSystems/04_PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/2025-1/2025-1_OperatingSystems/04_PageReplacementAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MainframeProccessesSimulator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MainframeProccessesSimulator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MainframeProccessesSimulator-Debug-2dbe2afc1c6beb18c0d0.json",
+					"name" : "MainframeProccessesSimulator",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Fullstack/2025-1/2025-1_OperatingSystems/01_MainframeProccessesSimulator/cmake-build-debug",
+		"source" : "D:/Fullstack/2025-1/2025-1_OperatingSystems/01_MainframeProccessesSimulator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

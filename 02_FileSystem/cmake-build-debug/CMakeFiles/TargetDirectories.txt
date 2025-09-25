@@ -1,0 +1,3 @@
+D:/Fullstack/OperatingSystems/02_FileSystem/cmake-build-debug/CMakeFiles/02_FileSystem.dir
+D:/Fullstack/OperatingSystems/02_FileSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/OperatingSystems/02_FileSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

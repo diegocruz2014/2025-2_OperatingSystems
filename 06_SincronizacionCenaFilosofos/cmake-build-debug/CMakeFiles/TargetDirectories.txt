@@ -1,0 +1,3 @@
+D:/Fullstack/2025-2/2025-2_OperatingSystems/06_SincronizacionCenaFilosofos/cmake-build-debug/CMakeFiles/07_SincronizacionCenaFilosofos.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/06_SincronizacionCenaFilosofos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/06_SincronizacionCenaFilosofos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
