@@ -1,3 +1,0 @@
-D:/C++Projects/2025-09-18/cmake-build-debug/CMakeFiles/2025_09_18.dir
-D:/C++Projects/2025-09-18/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/C++Projects/2025-09-18/cmake-build-debug/CMakeFiles/rebuild_cache.dir

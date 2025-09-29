@@ -1,0 +1,5 @@
+# ninja log v6
+4641	5264	7802928356624520	2025_09_18.exe	c79d22cd8bbfb719
+2072	2275	7807803077747867	2025-09-18_MemVirtual_Paginacion_Swapping.exe	809e65b669131fd4
+10	5373	7807876043281939	CMakeFiles/07_MemVirtual_Paginacion_Swapping.dir/main.cpp.obj	262ff042b8c046e8
+5377	5879	7807876096950891	07_MemVirtual_Paginacion_Swapping.exe	bccfc2d945b1da48

@@ -1,0 +1,3 @@
+D:/Fullstack/2025-2/2025-2_OperatingSystems/07_MemVirtual_Paginacion_Swapping/cmake-build-debug/CMakeFiles/07_MemVirtual_Paginacion_Swapping.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/07_MemVirtual_Paginacion_Swapping/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/2025-2/2025-2_OperatingSystems/07_MemVirtual_Paginacion_Swapping/cmake-build-debug/CMakeFiles/rebuild_cache.dir

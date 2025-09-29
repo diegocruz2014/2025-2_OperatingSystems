@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\Fullstack\2025-2\2025-2_OperatingSystems\2025-09-18_MemVirtual_Paginacion_Swapping Select CMakeLists.txt

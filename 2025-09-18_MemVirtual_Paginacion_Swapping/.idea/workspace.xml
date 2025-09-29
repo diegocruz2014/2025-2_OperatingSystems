@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bad8c53-9995-45fb-9b10-7379f6022182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../07_MemVirtual_Paginacion_Swapping/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07_MemVirtual_Paginacion_Swapping/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/.idea/2025-09-18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/cache-v2-13883a2286fe6da9cdba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-eaceff70583da7ee0828.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5c35bb4e92cc92233008.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-18T13-29-54-0536.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/target-2025_09_18-Debug-13d702763f29c0fb9ece.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6082f31f4c46160119db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/2025_09_18.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/2025_09_18.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-18/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/.idea/2025-09-22_MemVirtual_Paginacion_PFF.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/cache-v2-65f782c84b5a28dce1c4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d756ad50f219f6e8d357.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-196f2be42e40d260577c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-23T01-11-03-0552.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/target-2025_09_22_MemVirtual_Paginacion_PFF-Debug-10bfc29eeeba24036dd1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-6082f31f4c46160119db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/2025_09_22_MemVirtual_Paginacion_PFF.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/2025_09_22_MemVirtual_Paginacion_PFF.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2025-09-22_MemVirtual_Paginacion_PFF/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32sH6xmrjwtlLFiM1xW37gXkfPP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.2025-09-18_MemVirtual_Paginacion_Swapping.executor": "Run",
+    "CMake Application.2025_09_18.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bad8c53-9995-45fb-9b10-7379f6022182" name="Changes" comment="" />
+      <created>1758202187995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758202187995</updated>
+      <workItem from="1758202189684" duration="1644000" />
+      <workItem from="1758587923399" duration="2531000" />
+      <workItem from="1759076769077" duration="2000" />
+      <workItem from="1759076831529" duration="3000" />
+      <workItem from="1759076901666" duration="44000" />
+      <workItem from="1759076963643" duration="168000" />
+      <workItem from="1759077190540" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

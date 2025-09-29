@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\Fullstack\2025-2\2025-2_OperatingSystems\07_MemVirtual_Paginacion_PFF Select CMakeLists.txt

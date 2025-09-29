@@ -1,3 +1,0 @@
-D:/C++Projects/2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/2025_09_22_MemVirtual_Paginacion_PFF.dir
-D:/C++Projects/2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/C++Projects/2025-09-22_MemVirtual_Paginacion_PFF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
